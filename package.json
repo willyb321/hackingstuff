@@ -1,0 +1,14 @@
+{
+  "name": "hackingstuff.williamblythe.info",
+  "version": "1.0.0",
+  "description": "Hacking stuff",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "author": "willyb321",
+  "license": "MIT",
+  "dependencies": {
+    "pug": "^2.0.0-rc.3"
+  }
+}
