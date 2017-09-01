@@ -145,5 +145,17 @@
 	{
 		"href": "https://www.rapid7.com/db/modules/auxiliary/scanner/smb/pipe_auditor",
 		"desc": "https://www.rapid7.com/db/modules/auxiliary/scanner/smb/pipe_auditor - named pipe auditor is an excellecent method to gain situation awareness on a target. It can give you insight into what is running on the machine via named pipes"
+	},
+	{
+		"href": "https://github.com/evilsocket/bettercap",
+		"desc": "https://github.com/evilsocket/bettercap - A complete, modular, portable and easily extensible MITM framework."
+	},
+	{
+		"href": "https://github.com/juansacco/exploitpack",
+		"desc": "https://github.com/juansacco/exploitpack - Penetration testing framework written in Java"
+	},
+	{
+		"href": "https://github.com/infobyte/faraday",
+		"desc": "https://github.com/infobyte/faraday - Collaborative Penetration Test and Vulnerability Management Platform"
 	}
 ]
