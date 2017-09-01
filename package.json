@@ -4,11 +4,16 @@
   "description": "Hacking stuff",
   "main": "index.js",
   "scripts": {
-    "build": "node build.js"
+    "build": "node build.js",
+    "watch": "nodemon build.js -e pug,css,json"
   },
   "author": "willyb321",
   "license": "MIT",
   "dependencies": {
+    "nodemon": "^1.11.0",
     "pug": "^2.0.0-rc.3"
+  },
+  "devDependencies": {
+    "http-server": "^0.10.0"
   }
 }

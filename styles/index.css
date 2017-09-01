@@ -1,0 +1,6 @@
+ul > li > a {
+	color: #1098ad;
+}
+ul > li > a:hover {
+	color: #40c057;
+}
